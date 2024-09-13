@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "E:\\Projects\\Sample_ASP.NET_Core\\Sample_ASP.NET_Core_Web_API\\SampleAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7DDD6611-D2A8-4E7E-8A6C-AC895A2878E9}|SampleAPI\\SampleAPI.csproj|e:\\projects\\sample_asp.net_core\\sample_asp.net_core_web_api\\sampleapi\\sampleapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDD6611-D2A8-4E7E-8A6C-AC895A2878E9}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDD6611-D2A8-4E7E-8A6C-AC895A2878E9}|SampleAPI\\SampleAPI.csproj|e:\\projects\\sample_asp.net_core\\sample_asp.net_core_web_api\\sampleapi\\sampleapi\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDD6611-D2A8-4E7E-8A6C-AC895A2878E9}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDD6611-D2A8-4E7E-8A6C-AC895A2878E9}|SampleAPI\\SampleAPI.csproj|e:\\projects\\sample_asp.net_core\\sample_asp.net_core_web_api\\sampleapi\\sampleapi\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDD6611-D2A8-4E7E-8A6C-AC895A2878E9}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDD6611-D2A8-4E7E-8A6C-AC895A2878E9}|SampleAPI\\SampleAPI.csproj|e:\\projects\\sample_asp.net_core\\sample_asp.net_core_web_api\\sampleapi\\sampleapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDD6611-D2A8-4E7E-8A6C-AC895A2878E9}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDD6611-D2A8-4E7E-8A6C-AC895A2878E9}|SampleAPI\\SampleAPI.csproj|e:\\projects\\sample_asp.net_core\\sample_asp.net_core_web_api\\sampleapi\\sampleapi\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDD6611-D2A8-4E7E-8A6C-AC895A2878E9}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDD6611-D2A8-4E7E-8A6C-AC895A2878E9}|SampleAPI\\SampleAPI.csproj|e:\\projects\\sample_asp.net_core\\sample_asp.net_core_web_api\\sampleapi\\sampleapi\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDD6611-D2A8-4E7E-8A6C-AC895A2878E9}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDD6611-D2A8-4E7E-8A6C-AC895A2878E9}|SampleAPI\\SampleAPI.csproj|e:\\projects\\sample_asp.net_core\\sample_asp.net_core_web_api\\sampleapi\\sampleapi\\mapper\\studentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDD6611-D2A8-4E7E-8A6C-AC895A2878E9}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\mapper\\studentmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7DDD6611-D2A8-4E7E-8A6C-AC895A2878E9}|SampleAPI\\SampleAPI.csproj|e:\\projects\\sample_asp.net_core\\sample_asp.net_core_web_api\\sampleapi\\sampleapi\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7DDD6611-D2A8-4E7E-8A6C-AC895A2878E9}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDD6611-D2A8-4E7E-8A6C-AC895A2878E9}|SampleAPI\\SampleAPI.csproj|e:\\projects\\sample_asp.net_core\\sample_asp.net_core_web_api\\sampleapi\\sampleapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDD6611-D2A8-4E7E-8A6C-AC895A2878E9}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DDD6611-D2A8-4E7E-8A6C-AC895A2878E9}|SampleAPI\\SampleAPI.csproj|e:\\projects\\sample_asp.net_core\\sample_asp.net_core_web_api\\sampleapi\\sampleapi\\dto\u0027s\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DDD6611-D2A8-4E7E-8A6C-AC895A2878E9}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\dto\u0027s\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +63,131 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "E:\\Projects\\Sample_ASP.NET_Core\\Sample_ASP.NET_Core_Web_API\\SampleAPI\\SampleAPI\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Controllers\\StudentController.cs",
+              "ToolTip": "E:\\Projects\\Sample_ASP.NET_Core\\Sample_ASP.NET_Core_Web_API\\SampleAPI\\SampleAPI\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "SampleAPI\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T18:14:15.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "E:\\Projects\\Sample_ASP.NET_Core\\Sample_ASP.NET_Core_Web_API\\SampleAPI\\SampleAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "E:\\Projects\\Sample_ASP.NET_Core\\Sample_ASP.NET_Core_Web_API\\SampleAPI\\SampleAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SampleAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T18:13:46.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "E:\\Projects\\Sample_ASP.NET_Core\\Sample_ASP.NET_Core_Web_API\\SampleAPI\\SampleAPI\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Services\\StudentService.cs",
+              "ToolTip": "E:\\Projects\\Sample_ASP.NET_Core\\Sample_ASP.NET_Core_Web_API\\SampleAPI\\SampleAPI\\Services\\StudentService.cs",
+              "RelativeToolTip": "SampleAPI\\Services\\StudentService.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwBcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:56:21.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "E:\\Projects\\Sample_ASP.NET_Core\\Sample_ASP.NET_Core_Web_API\\SampleAPI\\SampleAPI\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Services\\IStudentService.cs",
+              "ToolTip": "E:\\Projects\\Sample_ASP.NET_Core\\Sample_ASP.NET_Core_Web_API\\SampleAPI\\SampleAPI\\Services\\IStudentService.cs",
+              "RelativeToolTip": "SampleAPI\\Services\\IStudentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:56:02.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentMapper.cs",
+              "DocumentMoniker": "E:\\Projects\\Sample_ASP.NET_Core\\Sample_ASP.NET_Core_Web_API\\SampleAPI\\SampleAPI\\Mapper\\StudentMapper.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Mapper\\StudentMapper.cs",
+              "ToolTip": "E:\\Projects\\Sample_ASP.NET_Core\\Sample_ASP.NET_Core_Web_API\\SampleAPI\\SampleAPI\\Mapper\\StudentMapper.cs",
+              "RelativeToolTip": "SampleAPI\\Mapper\\StudentMapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:47:06.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Projects\\Sample_ASP.NET_Core\\Sample_ASP.NET_Core_Web_API\\SampleAPI\\SampleAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Projects\\Sample_ASP.NET_Core\\Sample_ASP.NET_Core_Web_API\\SampleAPI\\SampleAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SampleAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:29:43.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "E:\\Projects\\Sample_ASP.NET_Core\\Sample_ASP.NET_Core_Web_API\\SampleAPI\\SampleAPI\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Repository\\StudentRepository.cs",
+              "ToolTip": "E:\\Projects\\Sample_ASP.NET_Core\\Sample_ASP.NET_Core_Web_API\\SampleAPI\\SampleAPI\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "SampleAPI\\Repository\\StudentRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAzwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:28:15.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IStudentrepository.cs",
+              "DocumentMoniker": "E:\\Projects\\Sample_ASP.NET_Core\\Sample_ASP.NET_Core_Web_API\\SampleAPI\\SampleAPI\\Repository\\IStudentrepository.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Repository\\IStudentrepository.cs",
+              "ToolTip": "E:\\Projects\\Sample_ASP.NET_Core\\Sample_ASP.NET_Core_Web_API\\SampleAPI\\SampleAPI\\Repository\\IStudentrepository.cs",
+              "RelativeToolTip": "SampleAPI\\Repository\\IStudentrepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:27:51.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentDto.cs",
+              "DocumentMoniker": "E:\\Projects\\Sample_ASP.NET_Core\\Sample_ASP.NET_Core_Web_API\\SampleAPI\\SampleAPI\\Dto\u0027s\\StudentDto.cs",
+              "RelativeDocumentMoniker": "SampleAPI\\Dto\u0027s\\StudentDto.cs",
+              "ToolTip": "E:\\Projects\\Sample_ASP.NET_Core\\Sample_ASP.NET_Core_Web_API\\SampleAPI\\SampleAPI\\Dto\u0027s\\StudentDto.cs",
+              "RelativeToolTip": "SampleAPI\\Dto\u0027s\\StudentDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:24:04.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Student.cs",
               "DocumentMoniker": "E:\\Projects\\Sample_ASP.NET_Core\\Sample_ASP.NET_Core_Web_API\\SampleAPI\\SampleAPI\\Models\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "SampleAPI\\Models\\Entities\\Student.cs",
               "ToolTip": "E:\\Projects\\Sample_ASP.NET_Core\\Sample_ASP.NET_Core_Web_API\\SampleAPI\\SampleAPI\\Models\\Entities\\Student.cs",
               "RelativeToolTip": "SampleAPI\\Models\\Entities\\Student.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T12:46:24.688Z",
+              "WhenOpened": "2024-09-13T17:20:02.728Z",
               "EditorCaption": ""
             }
           ]
