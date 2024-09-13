@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Projects\\Sample_ASP.NET_Core\\Sample_ASP.NET_Core_Web_API\\SampleAPI\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{7DDD6611-D2A8-4E7E-8A6C-AC895A2878E9}|SampleAPI\\SampleAPI.csproj|e:\\projects\\sample_asp.net_core\\sample_asp.net_core_web_api\\sampleapi\\sampleapi\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7DDD6611-D2A8-4E7E-8A6C-AC895A2878E9}|SampleAPI\\SampleAPI.csproj|solutionrelative:sampleapi\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -23,19 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Student.cs",
-              "DocumentMoniker": "E:\\Projects\\Sample_ASP.NET_Core\\Sample_ASP.NET_Core_Web_API\\SampleAPI\\SampleAPI\\Models\\Entities\\Student.cs",
-              "RelativeDocumentMoniker": "SampleAPI\\Models\\Entities\\Student.cs",
-              "ToolTip": "E:\\Projects\\Sample_ASP.NET_Core\\Sample_ASP.NET_Core_Web_API\\SampleAPI\\SampleAPI\\Models\\Entities\\Student.cs",
-              "RelativeToolTip": "SampleAPI\\Models\\Entities\\Student.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T12:46:24.688Z",
-              "EditorCaption": ""
             }
           ]
         }
